@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>YoloGroup.Developer.API</name>
+    </assembly>
+    <members>
+        <member name="M:YoloGroup.Developer.API.Controllers.QuestionController.Question1(System.String)">
+            <summary>
+            This endpoint inverts the text
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+            <example> Hi there I am Timi</example>
+        </member>
+        <member name="M:YoloGroup.Developer.API.Controllers.QuestionController.Question2">
+            <summary>
+            This endpoint simulates a parrallel processing 
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:YoloGroup.Developer.API.Controllers.QuestionController.Question3">
+            <summary>
+            Hash file without loading to memory 
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:YoloGroup.Developer.API.Controllers.QuestionController.Question4(System.Int32,System.Int32)">
+            <summary>
+            Consume APi and process enteries
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
